@@ -1,0 +1,4 @@
+Desarrolle la prueba con .net, es un proyecto para consola.
+Puede ejecutar el archivo Prueba.sln para ejecutarlo desde consola o abrir la carpeta Prueba en Visual Studio para abrir el proyecto.
+Hice los 2 primeros puntos de la prueba en un solo codigo.
+Utilice un switch para alternar las opciones, solo siga los pasos que indica el programa.
