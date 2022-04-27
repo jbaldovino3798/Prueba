@@ -1,0 +1,8 @@
+C:\Users\MARIO\source\repos\Prueba\Prueba\bin\Release\Prueba.exe.config
+C:\Users\MARIO\source\repos\Prueba\Prueba\bin\Release\Prueba.exe
+C:\Users\MARIO\source\repos\Prueba\Prueba\bin\Release\Prueba.pdb
+C:\Users\MARIO\source\repos\Prueba\Prueba\obj\Release\Prueba.csproj.AssemblyReference.cache
+C:\Users\MARIO\source\repos\Prueba\Prueba\obj\Release\Prueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARIO\source\repos\Prueba\Prueba\obj\Release\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\source\repos\Prueba\Prueba\obj\Release\Prueba.exe
+C:\Users\MARIO\source\repos\Prueba\Prueba\obj\Release\Prueba.pdb
